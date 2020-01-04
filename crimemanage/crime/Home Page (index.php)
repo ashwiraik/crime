@@ -1,0 +1,68 @@
+Home Page (index.php)
+	Login (login.php,loginprs.php)
+	Registration (registration.php,registrationprs.php)
+
+Admin Home(adminhome.php)
+	User List (userlist.php)
+		Add
+		adduser.php
+		adduserprs.php
+		Edit
+		edituser.php
+		edituserprs.php
+		Delete
+		deleteuser.php
+		deleteuserprs.php
+	Police List(policelist.php)
+		Add
+		addpolice.php
+		addpoliceprs.php
+		Edit
+		editpolice.php
+		editpoliceprs.php
+		Delete
+		deletepolice.php
+		deletepoliceprs.php
+
+	Complaint List()(complaint.php)
+		Change Status
+		complaint_changestatus
+
+	Criminal List()(criminallist.php)
+     add
+     edit
+     delete
+     view
+
+User Home
+
+	Create Complaint
+	View Complaint
+	Profile
+		view
+		edit
+
+		fir(fir.php)
+		add
+		edit
+		delete
+		view
+
+		postmoterm()(posterm.php)
+		postmoterm_add
+		postmoterm_edit
+		postmoterm_delete
+		posterm_view
+
+
+		prisonerregisterion()(prisonerregistion.php)
+		add
+		edit
+		delete
+		view
+
+		
+
+
+
+
